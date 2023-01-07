@@ -2,11 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import Page from './Page';
 
-
-
 const Links = ['All','HTML','CSS','JavaScript'];
-
-
 
 
  function Navbar() {
